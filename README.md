@@ -18,7 +18,7 @@ It's easy to use and very flexible. All you have to do is:
 
 For example:
 
-![image](https://user-images.githubusercontent.com/59684906/159684734-bfb8fd46-9a39-4e0d-a326-5b955a21b8ca.png)
+![image](https://user-images.githubusercontent.com/59684906/159709687-68d01a68-bbe2-426d-8d9c-bcb42174123e.png)
 
 ### 2. Open the program.
 This is how it looks like (for now):
